@@ -1151,7 +1151,7 @@ async def main():
     API_ID = 37841426
     API_HASH = "5329711a1d0b79cecb6f2edf68d93469"
     BOT_TOKEN = "8604995011:AAE9nC9Jf4drCmMdhbbzgyCnEg7JOhpQMrg"
-    REQUIRED_CHANNEL =   # Majburiy obuna kanali
+    REQUIRED_CHANNEL = "@Sara_Xabarlar"  # Majburiy obuna kanali
 
     # 👑 ADMIN IDlar
     ADMIN_IDS = [8201674543]  # Admin user ID
@@ -1180,4 +1180,5 @@ async def main():
 
 
 if __name__ == '__main__':
+
     asyncio.run(main())
